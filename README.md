@@ -5,11 +5,7 @@ I own a Multi-Specialty Hospital chain with locations all across the world. My h
 
 We maintain all customers in one database. There are heaps of customers with user cards to my hospital. So, I decided to split up the customers based on the country and load them into corresponding country tables. To pull the customers as per Country, my developers should know what are all the places the Customer Data is available. So, the data extracting will be done by our Source System. They will pull the all the relevant customer data and will give us a Data file.
 
-## The Problem
-
-Developers will pull the all the relevant customer data and will give us a Data file.
-
-In design documents, you will have:
+## In design documents, you will have: 
 
 File Name Specification – Name String, Extension of the files
 
